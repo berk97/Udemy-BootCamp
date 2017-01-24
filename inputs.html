@@ -1,0 +1,44 @@
+<!-- radio button -->
+<!-- select tag -->
+<!-- textarea tag -->
+
+
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Inputs</title>
+</head>
+<body>
+	<p>Do you prefer Cats or Dogs??</p>
+	<form>
+		<label for="dogs">Dogs</label>
+	<input name="petChoice" id="dogs" type="radio"value="DOG">
+	<label for="cats">Cats</label>
+	<input name="petChoice" id="cats" type="radio" value="CAT">
+	
+	<p>What's your favorite color??</p>
+	<select name="mood">
+		<!-- <option>Red</option>
+		<option>Orange</option>
+		<option>Yellow</option>
+ -->
+ 		<option value="Happy">:-)</option>
+		<option value="meh">:-|</option>
+		<option value="Sad">:-(</option>
+	</select>
+
+	<p><h3>Paste Resume</h3>
+		<TEXTAREA name="resume" rows="25" cols="45">
+
+	</TEXTAREA>
+</p>
+
+	<button>Go!</button>
+	</form>
+
+<!-- If a button is the last thing at the end of a form it will submit the data -->
+
+<!-- by adding name="petChoice to both inputs, this restrict the user to entering only 1 selection...either cat OR dog, but not both" -->
+
+</body>
+</html>

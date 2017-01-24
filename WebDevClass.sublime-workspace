@@ -1,0 +1,417 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"max",
+				"max-height"
+			],
+			[
+				"img",
+				"border-image-width"
+			],
+			[
+				"ma",
+				"max-width"
+			],
+			[
+				"Margin",
+				"margin-top"
+			],
+			[
+				"fon",
+				"font-weight"
+			],
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"border",
+				"border-top"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"padding",
+				"padding-left"
+			],
+			[
+				"html",
+				"html	html"
+			],
+			[
+				"border-",
+				"border-left"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"padd",
+				"padding-left"
+			],
+			[
+				"che",
+				"checkboxes"
+			],
+			[
+				"background",
+				"background-color"
+			],
+			[
+				"color",
+				"background-color"
+			],
+			[
+				"ba",
+				"background"
+			],
+			[
+				"Backgroun",
+				"background-color"
+			],
+			[
+				"backgroun",
+				"background-color"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "PhotoGrid.html",
+			"settings":
+			{
+				"buffer_size": 1078,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "<!DOCTYPE html>\n<html>\n<head>\n	<title>BlogExercise</title>\n	<link rel=\"stylesheet\" type=\"text/css\" href=\"styles/BlogExercise.css\">\n	<link href=\"https://fonts.googleapis.com/css?family=Abril+Fatface|Noto+Serif\" rel=\"stylesheet\">\n	<link href=\"https://fonts.googleapis.com/css?family=Abril+Fatface|Arapey|Noto+Serif\" rel=\"stylesheet\">\n\n\n</head>\n<body>\n	<div class=\"Post\">\n<img src=\"/Users/bpayer/Desktop/IMG_2680.jpg\">\n<img src=\"/Users/bpayer/Desktop/IMG_2685.jpg\">\n<img src=\"/Users/bpayer/Desktop/IMG_2690.jpg\">\n\n<h4 class=\"date\">December 10 2015</h4>\n\n<h2>This Is My First Article</h2>\n\n<p class=\"Indent\">\n	Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod\ntempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,\nquis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo\nconsequat.\n</p>\n\n\n<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod\ntempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,\nquis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo\nconsequat. Duis aute irure dolor in reprehenderit in voluptate velit esse\ncillum dolore eu fugiat nulla pariatur. </p>\n\n<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod\ntempor incididunt ut labore et dolore magna aliqua. </p>\n<hr>\n\n<h4 class=\"date\">December 11 2015</h4>\n\n<h2>This Is Another Article</h2>\n\n<p class=\"Indent\">\n	Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod\ntempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,\nquis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo\nconsequat. \n</p>\n\n<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod\ntempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,\nquis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo\nconsequat. Duis aute irure dolor in reprehenderit in voluptate velit esse\ncillum dolore eu fugiat nulla pariatur. </p>\n\n<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod\ntempor incididunt ut labore et dolore magna aliqua. </p>\n\n<hr>\n	</div>\n\n\n</body>\n</html>\n",
+			"file": "BlogExercise.html",
+			"file_size": 2172,
+			"file_write_time": 1485210433000000,
+			"settings":
+			{
+				"buffer_size": 2174,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "styles/BlogExercise.css",
+			"settings":
+			{
+				"buffer_size": 751,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "styles/photos.css",
+			"settings":
+			{
+				"buffer_size": 470,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 360.0,
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"ANF: New File"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"Snippet:",
+				"Snippet: html"
+			]
+		],
+		"width": 456.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/bpayer/Dropbox/Web Development Projects/Udemy Projects/testyoyoyoyolo.html",
+		"/Users/bpayer/Downloads/07_ImageBlog1/imageLinks.html",
+		"/Users/bpayer/Dropbox/Web Development Projects/Udemy Projects/Labels.html",
+		"/Users/bpayer/Dropbox/Web Development Projects/Udemy Projects/boxmodel.html",
+		"/Users/bpayer/Library/Application Support/Sublime Text 2/Packages/User/list.sublime-snippet",
+		"/Users/bpayer/Library/Application Support/Sublime Text 2/Packages/User/html.sublime-snippet",
+		"/Users/bpayer/Dropbox/Web Development Projects/Udemy Projects/styles/test23.css",
+		"/Users/bpayer/Dropbox/Web Development Projects/Udemy Projects/styles/fuckyourself.css",
+		"/Users/bpayer/Dropbox/Web Development Projects/Udemy Projects/fuckityfuckkuck.css",
+		"/Volumes/Seagate Backup Plus Drive/Web Development Projects/Udemy Projects/styles/app.css",
+		"/Volumes/Seagate Backup Plus Drive 1/Web Development Projects/Udemy Projects/respect.html",
+		"/Volumes/Seagate Backup Plus Drive 1/Web Development Projects/Udemy Projects/test.html",
+		"/Volumes/Seagate Backup Plus Drive 1/Web Development Projects/Udemy Projects/tic-tac-toe.html",
+		"/Volumes/Seagate Backup Plus Drive 1/Web Development Projects/Udemy Projects/styles/tic-tac-toe.css",
+		"/Volumes/Seagate Backup Plus Drive 1/Web Development Projects/Udemy Projects/styles/boxmodel.css",
+		"/Volumes/Seagate Backup Plus Drive/Web Development Projects/Udemy Projects/styles/fonts.css",
+		"/Volumes/Seagate Backup Plus Drive/Web Development Projects/Udemy Projects/aboutme.html",
+		"/Volumes/Seagate Backup Plus Drive/Web Development Projects/Udemy Projects/tic-tac-toe.css",
+		"/Users/bpayer/Library/Application Support/Sublime Text 2/Packages/User/table.sublime-snippet",
+		"/Volumes/Seagate Backup Plus Drive/Web Development Projects/Udemy Projects/thingsivelearned.html",
+		"/Volumes/Seagate Backup Plus Drive/Web Development Projects/Udemy Projects/styles/boxmodel.css",
+		"/Volumes/Seagate Backup Plus Drive/Web Development Projects/Udemy Projects/boxmodel.html",
+		"/Volumes/Seagate Backup Plus Drive/Web Development Projects/Udemy Projects/scripts/boxmodel.css",
+		"/Volumes/Seagate Backup Plus Drive/Web Development Projects/Udemy Projects/styles/Demo.css",
+		"/Volumes/Seagate Backup Plus Drive/Web Development Projects/Udemy Projects/Udemy.sublime-project",
+		"/Volumes/Seagate Backup Plus Drive/Web Development Projects/Udemy Projects/styles/test123.css",
+		"/Volumes/Seagate Backup Plus Drive/Web Development Projects/Udemy Projects/inputs.html",
+		"/Users/bpayer/testfiles.html",
+		"/Users/bpayer/test",
+		"/Users/bpayer/Downloads/Package Control (2).sublime-package",
+		"/Volumes/Seagate Backup Plus Drive/Web Development Projects/Udemy Projects/styles/test.html",
+		"/Volumes/Seagate Backup Plus Drive/Web Development Projects/Udemy Projects/Forms.html",
+		"/Volumes/Seagate Backup Plus Drive/Web Development Projects/Udemy Projects/Labels.html",
+		"/Volumes/Seagate Backup Plus Drive/Web Development Projects/Udemy Projects/FormValidations.html",
+		"/Volumes/Seagate Backup Plus Drive/Web Development Projects/Udemy Projects/FormsExercise.html",
+		"/Volumes/Seagate Backup Plus Drive/Web Development Projects/Udemy Projects/FormTags.html",
+		"/Users/bpayer/Desktop/mytestproject2.html",
+		"/Users/bpayer/Library/Application Support/Sublime Text 2/Packages/User/Distraction Free.sublime-settings"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"hover"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "PhotoGrid.html",
+					"settings":
+					{
+						"buffer_size": 1078,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								304,
+								304
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "BlogExercise.html",
+					"settings":
+					{
+						"buffer_size": 2174,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2156,
+								2156
+							]
+						],
+						"settings":
+						{
+							"_anf_new": "",
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 401.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "styles/BlogExercise.css",
+					"settings":
+					{
+						"buffer_size": 751,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								209,
+								209
+							]
+						],
+						"settings":
+						{
+							"_anf_new": "",
+							"syntax": "Packages/CSS/CSS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "styles/photos.css",
+					"settings":
+					{
+						"buffer_size": 470,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								137,
+								137
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 41.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 722.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 225.0,
+	"status_bar_visible": true
+}
